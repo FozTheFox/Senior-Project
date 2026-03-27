@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100 h-screen;
+}
+
+.container {
+  @apply max-w-md w-full p-4 bg-white rounded shadow-md;
+}
+
+.label {
+  @apply block mb-2;
+}
+
+.input {
+  @apply block w-full p-2 pl-10 text-sm text-gray-700;
+}
+
+.button {
+  @apply bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded;
+}
+
+@layer base{
+  bodt{
+    @apply bg-gray-100;
+  }
+}
+
+.fixed-width-button {
+  width: 100px; /* กำหนดความกว้างที่ต้องการ */
+}
+
