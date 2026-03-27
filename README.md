@@ -3,19 +3,19 @@ This repository is a clone of my university graduation project, originally hoste
 
 Collaborators: Developed in collaboration with [@Mighty-i](https://github.com/Mighty-i) & [@Rappyssr](https://github.com/Rappyssr)
 
-* **My Responsibilities ([@FuxKuSu'S](https://github.com/FozTheFox)):**
+* **My Responsibilities ([@FuxKuSu'S](https://github.com/FozTheFox)) :**
   * **System Architecture & Dashboard Development:** Designed and developed the comprehensive web-based Admin Dashboard serving as the central hub for all auto body shop operations.
   * **CRUD Document Management:** Engineered an automated workflow for the entire vehicle repair lifecycle, digitizing critical documents including Vehicle Intake Forms, Repair Orders, Quotations, Invoicing & Billing Receipts, Final Vehicle Delivery/Release Documents
   * **Third-Party & Inventory Integration:** Developed dedicated modules to manage complex paperwork involving external stakeholders, such as Insurance Claim documents, Spare Parts tracking, and Car Dealer records.
   * **Automated Business Reporting & Analytics:** Engineered an automated reporting module to aggregate operational data and generate comprehensive monthly and annual performance summaries tailored for the business owner.
 
-* **Collaborator Responsibilities ([@Mighty-i](https://github.com/Mighty-i)):**
+* **Collaborator Responsibilities ([@Mighty-i](https://github.com/Mighty-i)) :**
   * **Backend & API Architecture:** Designed and developed the core backend infrastructure and robust RESTful APIs, ensuring seamless and real-time data synchronization between the web dashboards and the mobile application.
   * **Security & Authentication:** Implemented secure user authentication, authorization, and session management using NextAuth.js to protect sensitive business data and control access levels across the platform.
   * **Mechanic Mobile App Development:** Engineered the dedicated Mobile Application for the mechanic team, designed specifically to minimize administrative friction, streamline daily repair workflows, and accurately log operational working hours.
   * **Tablet-Optimized Assessment Module:** Developed a responsive, on-the-go interface empowering the Head Mechanic to perform real-time vehicle damage assessments and manage repair data directly on the shop floor via a tablet.
 
-* **Collaborator Responsibilities ([@Rappyssr](https://github.com/Rappyssr)):**
+* **Collaborator Responsibilities ([@Rappyssr](https://github.com/Rappyssr)) :**
   * **Staff Dashboard Development:** Designed and developed the Employee Dashboard tailored for daily front-office operations and customer interactions.
   * **Assessment & Time Tracking:** Implemented the workflow for tracking operational time, starting directly from the initial vehicle damage assessment.
   * **End-to-End Document Issuance & Task Delegation:** Handled the operational logic for generating Vehicle Intake Forms, Repair Orders, Quotations, including the feature to officially assign and distribute repair tasks to the mechanic team.
