@@ -1,7 +1,8 @@
-# Acknowledgement AND Credits:
-This repository is a clone of my university graduation project, originally hosted privately.
-
-Collaborators: Developed in collaboration with [@Mighty-i](https://github.com/Mighty-i) & [@Rappyssr](https://github.com/Rappyssr)
+> [!IMPORTANT]
+> # Acknowledgement AND Credits:
+> This repository is a clone of my university graduation project, originally hosted privately.
+> 
+> Collaborators: Developed in collaboration with [@Mighty-i](https://github.com/Mighty-i) & [@Rappyssr](https://github.com/Rappyssr)
 
 * **My Responsibilities ([@FuxKuSu'S](https://github.com/FozTheFox)) :**
   * **System Architecture & Dashboard Development:** Designed and developed the comprehensive web-based Admin Dashboard serving as the central hub for all auto body shop operations.
